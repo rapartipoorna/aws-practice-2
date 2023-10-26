@@ -1,8 +1,10 @@
-env
+venv/
 **/*.pyc
-**/__pycache__
 media
 .DS_Store
+db.sqlite3
+demo/migrations/00*
+**/__pycache_/
 #*.sqlite3 demo db
 *.env
 
