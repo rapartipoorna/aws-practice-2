@@ -1,0 +1,5 @@
+db.sqlite3
+demo/migrations/00*
+**/__pycache_/
+venv/
+
